@@ -30,11 +30,11 @@ You can explore my academic profile and publications on my
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DICTA 2025</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DICTA 2025</div><img src='images/dicta2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection](https://arxiv.org/abs/2510.21793) \\
-Usman Ali, Ali Zia , Abdul Rehman, Umer Ramzan, Zohaib Hassan, Talha Sattar, Jing Wang, Wei Xiang
+Usman Ali, Ali Zia , **Abdul Rehman**, Umer Ramzan, Zohaib Hassan, Talha Sattar, Jing Wang, Wei Xiang
 [**Code**](https://github.com/adabrh/MAFR)
 </div>
 </div>
