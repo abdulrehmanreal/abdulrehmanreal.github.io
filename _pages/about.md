@@ -32,7 +32,7 @@ You can explore my academic profile and publications on my
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DICTA 2025</div><img src='images/dicta2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/hypergraph_senor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hypergraph Contrastive Sensor Fusion for Multimodal Fault Diagnosis in Induction Motors](https://doi.org/10.1109/JSEN.2025.3648413) \\
@@ -41,7 +41,7 @@ Usman Ali, Ali Zia, Waqas Ali, Umer Ramzan, **Abdul Rehman**, Muhammad Tayyab Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/hypergraph_senor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DICTA 2025</div><img src='images/dicta2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection](https://arxiv.org/abs/2510.21793) \\
